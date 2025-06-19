@@ -16,7 +16,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com aproximadamente
   
 - 🍔 **Sistema Web de Lanchonete (MVC)**
 
- Sistema com funcionalidades de cadastro, login e área de administração.
+  Sistema com funcionalidades de cadastro, login e área de administração.
 
 - 📚 **Site de Empréstimo de Livros (ASP.NET Core MVC + EF Core)**  
   Sistema com funcionalidades de cadastro, login, gerenciamento de livros e controle de empréstimos.
